@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "your-project-id"
+  },
+  "targets": {
+    "your-project-id": {
+      "hosting": {
+        "dev": ["fintrack-dev"],
+        "prod": ["fintrack-prod"]
+      }
+    }
+  }
+}
