@@ -4,5 +4,6 @@ dist
 firebase-debug.log
 .env
 .env.local
+.env.dev
 functions/lib
 coverage

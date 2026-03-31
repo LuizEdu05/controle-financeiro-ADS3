@@ -1,9 +1,6 @@
 {
   "projects": {
-    "default": "projeto-controle-finance-36bf5",
+    "default": "controle-financeiro-dev-72f90",
     "production": "projeto-controle-finance-prod"
-  }
-}
-    }
   }
 }
