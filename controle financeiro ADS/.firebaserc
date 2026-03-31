@@ -1,13 +1,9 @@
 {
   "projects": {
-    "default": "your-project-id"
-  },
-  "targets": {
-    "your-project-id": {
-      "hosting": {
-        "dev": ["fintrack-dev"],
-        "prod": ["fintrack-prod"]
-      }
+    "default": "projeto-controle-finance-36bf5",
+    "production": "projeto-controle-finance-prod"
+  }
+}
     }
   }
 }
